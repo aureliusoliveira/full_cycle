@@ -22,3 +22,7 @@ Divirta-se
 
 #### Solução
 Foi criada a imagem [hello_go](https://hub.docker.com/r/aureliusoc/hello_go) a partir do Dockerfile em ./docker/golang/.
+
+##### Links e Materiais de Apoio:
+* [Go in 100 Seconds](https://www.youtube.com/watch?v=446E-r0rXHI)
+* [Drastically reduce the size of your DOCKER images with MULTISTAGE builds](https://www.youtube.com/watch?v=KLOdisHW8rQ)
