@@ -6,7 +6,9 @@ Repositório com tarefas, exercícos, desafios e arquivos diversos do Curso Full
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
+```bash
 docker run aureliusoc/hello_go
+```
 
 Temos que ter o seguinte resultado: <seu_nome> & FullCycle rock!
 
