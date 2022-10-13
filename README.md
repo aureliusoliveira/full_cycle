@@ -1,4 +1,4 @@
-# Full_cycle
+# Curso FullCycle 3.0
 Repositório com tarefas, exercícos, desafios e arquivos diversos do Curso FullCycle 3.0
 
 ## Desafios
@@ -8,7 +8,7 @@ Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
 docker run aureliusoc/hello_go
 
-Temos que ter o seguinte resultado: <seu_nome> & Full Cycle rock!
+Temos que ter o seguinte resultado: <seu_nome> & FullCycle rock!
 
 Se você perceber, essa imagem apenas realiza um print da mensagem como resultado final, logo, vale a pena dar uma conferida no próprio site da Go Lang para aprender como fazer um "olá mundo".
 
