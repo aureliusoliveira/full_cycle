@@ -18,9 +18,9 @@ Suba tudo em um repositório e faça a entrega.
 Para utilizar a aplicação basta clonar esta pasta utilizando:
 
 ```
-git clone https://github.com/GiovannyLucas/desafio-docker-nginx-node-mysql.git
+git clone https://github.com/aureliusoliveira/full_cycle.git
 
-cd desafio-docker-nginx-node-mysql
+cd docker/nginx_node
 
 docker-compose up [-d]
 ```
