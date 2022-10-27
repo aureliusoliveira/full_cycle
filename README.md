@@ -3,3 +3,4 @@ Repositório com tarefas, exercícos, desafios e arquivos diversos do [Curso Ful
 
 ## Desafios
 ### 1. Desafio Go
+### 2. Nginx com Node.js
